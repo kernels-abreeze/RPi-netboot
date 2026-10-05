@@ -105,7 +105,7 @@ Directory /home/rpart/alpine is ready to be mounted via NFS
 </br>
 </br>
 
-I put a log of bootloader into [small note](https://github.com/malus-brandywine/malus-brandywine/blob/master/Articles/RPi-netboot/docs/rpi4-netboot-aarch64-alpine-notes-2.md)
+I put a log of bootloader into [small note](docs/rpi4-netboot-aarch64-alpine-notes-2.md)
 
 </br>
 
