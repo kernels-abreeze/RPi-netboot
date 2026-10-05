@@ -18,4 +18,4 @@ So,</br>
 * option vendor-encapsulated-options  "Raspberry Pi Boot";
 
 are mandatory for the bootloader to choose the DHCP server
-![DHCP notes](https://github.com/malus-brandywine/malus-brandywine/blob/master/Articles/RPi-netboot/docs/notes-dhcp.jpg)
+![DHCP notes](https://github.com/kernels-abreeze/RPi-netboot/blob/main/docs/notes-dhcp.jpg)
