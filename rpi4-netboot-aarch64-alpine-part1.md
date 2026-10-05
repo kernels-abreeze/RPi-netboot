@@ -102,7 +102,7 @@ Option tftp-server-name is a string ( ! )
 
 </br>
 
-I put some side notes on setting DHCP in separate [small article](https://github.com/malus-brandywine/malus-brandywine/blob/master/Articles/RPi-netboot/docs/rpi4-netboot-aarch64-alpine-notes-1.md)
+I put some side notes on setting DHCP in separate [small article](https://github.com/kernels-abreeze/RPi-netboot/blob/main/docs/rpi4-netboot-aarch64-alpine-notes-1.md)
 
 </br>
 
